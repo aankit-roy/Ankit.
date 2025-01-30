@@ -5,10 +5,10 @@
 
  
 ## 🚀 Tech Stack:
-- **Languages**: Dart, JavaScript,java, 
+- **Languages**: Dart, JavaScript,Java, 
 - **Frameworks**: Flutter, android developer
-- **Tools**: Firebase, sqflite, room, 
-- **Platforms**: Android, vscode
+- **Tools**: Firebase, GitHub , git
+- **Platforms**: Android, vs code
 
 ## 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aankit-roy&show_icons=true&theme=dark)
